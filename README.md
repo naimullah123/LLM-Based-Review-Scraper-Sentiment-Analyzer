@@ -139,6 +139,10 @@ Then enter the product URL when prompted.
 * Support batch URL processing
 
 ---
+## 🎥 Demo Video
+
+Watch the project demo here:  
+https://drive.google.com/file/d/1oqPNrL3jgirTRTEVxQG7pfgSzCUKGSLn/view?usp=sharing
 
 ## ✅ Conclusion
 
